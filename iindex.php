@@ -351,7 +351,7 @@
                             </div>
                             <div class="form-group">
                                 <label for="phone number"> Phone Number:</label> 
-                                <input type="tel"  class="form-control" id="email" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" name="tel" required maxlength="10" placeholder="e.g 0794977364">
+                                <input type="tel"  class="form-control" id="email" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" name="tel" required maxlength="10" placeholder="e.g 0842742234">
                            </div>
                             
                             <div class="form-group">
@@ -387,7 +387,7 @@
                           </font></p></div>
                         <div class="col-sm-4"><hr color="white"><p><font color="white"><h6>Contact Us:</h6><br><b>Cellphone</b><p class="number" >079 497 7364</p><br><b>Email</b><br><b>info@mmatech.co.za</b>
                           </font></p></div> 
-                           <div class="col-sm-4"><hr color="white"><p><font color="white"><h6>Social Media</h6><br><img class="socialIcons"  src="images/socialIcons/instagramIcon (2).png"></b><p>@m_m_a_tech</p><img class="socialIcons" src="images/socialIcons/whatsapp.png"><p class="number" >079 497 7364</p>
+                           <div class="col-sm-4"><hr color="white"><p><font color="white"><h6>Social Media</h6><br><img class="socialIcons"  src="images/socialIcons/instagramIcon (2).png"></b><p>@m_m_a_tech</p><img class="socialIcons" src="images/socialIcons/whatsapp.png"><p class="number" >0842742234</p>
                           </font></p></div>
                         
                         
